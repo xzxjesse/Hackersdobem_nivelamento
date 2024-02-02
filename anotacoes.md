@@ -1,4 +1,4 @@
-# Definição:
+## Definição:
 
 - **Hacker:**
   Indivíduo que tem grande habilidade e conhecimento em computação e tecnologia.
@@ -42,3 +42,36 @@ Garante que haja ética dentro da área de tecnologia, mantendo a privacidade e 
 
 - **Blue Team:**
   Mantêm e melhoram a postura de segurança da informação, ao identificar falhas de segurança e corrigir as possíveis brechas.
+
+- **Forense:**
+  Responsável por aplicar metodologias para encontrar pistas deixadas na cena de um crime.
+
+- **GRC:** 
+- Governança, risco e conformidade
+  Modelo coordenado que ajuda sua empresa a reduzir o desperdício, aumentar a eficiência, diminuir riscos de não conformidade e compartilhar informações com mais eficiência.
+
+- **DevSecOps:**
+- Development, Security e Operations
+  Integração e automatização de softwares de segurança, visando garantir a segurança dos dados sigilosos de uma empresa.
+
+## Conceitos iniciais:
+
+- Vírus
+  É um software malicioso que pode ser projetado de diversas maneiras em um computador ou rede e se replica entre sistemas e arquivos, causando danos que podem afetar o funcionamento do computador ou o roubo de dados sigilosos de uma pessoa física ou empresa.
+
+  - Vírus de arquivo
+  - Vírus de Macro
+  - Vírus de Boot
+  - Worms
+    se espalhar automaticamente pela rede
+  - Trojans
+    disfarçados como software legítimo
+
+- Ameaças que podem afetar a segurança e privacidade dos dados:
+
+  - SPAM
+  - Spyware
+  - Worms
+  - Phishing
+  - Botnets
+  - Ransomware
