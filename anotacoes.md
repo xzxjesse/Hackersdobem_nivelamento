@@ -1,3 +1,5 @@
+# Introdução à Cibersegurança
+
 ## Definição:
 
 - **Hacker:**
@@ -74,4 +76,21 @@ Garante que haja ética dentro da área de tecnologia, mantendo a privacidade e 
   - Worms
   - Phishing
   - Botnets
+    É uma rede de computadores infectados por um malware que permite que um cibercriminoso controle-os remotamente.
   - Ransomware
+  - Rootkit
+    É um tipo de malware furtivo e perigoso que permite que cibercriminosos acessem o seu computador sem você saber
+
+## Boas práticas
+
+**Segurança:**
+- Usar senhas fortes e únicas
+- Autenticação de dois fatores
+- Atualizar os sistemas e os aplicativos
+- Instalar um antivírus
+- Fazer backup dos dados
+
+**Etapas de implementação:**
+- Avaliar o nível de exposição às ameaças digitais
+- Escolher as medidas de proteção adequadas
+- Implementar e monitorar as medidas de proteção escolhidas
