@@ -67,7 +67,7 @@ FACA16 = 1111 1010 1100 1010<br>
 - Frequência
 - Núcleos
 - Cache
-- Arquitetura:
+- Arquitetura:<br>
 X86 (32 bits) - CISC<br>
 X64 (64 bits)- CISC<br>
 ARM – RISC<br>
@@ -88,13 +88,13 @@ Componentes: onboard e offboard<br>
 - M.2 (SATA / NVMe)
 
 **Memórias:** armazenar os dados de um sistema, responsável pela velocidade de utilização e troca de dados de um computador<br>
-- Não Voláteis
-**ROM** (PROMs, EPROMs, EEPROMs, Memória flash): **Memória somente de leitura**<br>
-Armazenamento em massa (Pendrive, SSD, HD)<br>
-- Voláteis
-**RAM** (SIMM, DIMM, SDR, DDR, DDR2, DDR3, DDR4, DDR5, etc): **Memória primária em um computador**<br>
-Cache (L1, L2, L3)<br>
-Vídeo (GDDR3, GDDR4, GDDR5, GDDR6, HBM, HBM2)<br>
+- Não Voláteis<br>
+**ROM**: **Memória somente de leitura**<br>
+Armazenamento em massa<br>
+- Voláteis<br>
+**RAM**: **Memória primária em um computador**<br>
+Cache<br>
+Vídeo<br>
 <br>
 - Memórias de Vídeo: utilizadas pelas placas de vídeo
 <br>
@@ -122,3 +122,31 @@ registradores
 - Discos (HD, SSD ou pendrive)
 - Relógio do sistema
 - Se houve alteração
+
+## Aula 3 - Armazenamento, Fonte, Placas Offboard e Gabinete
+
+Para que o computador funcione precisamos de softwares como sistemas operacionais, e os dados gerados e utilizados por esses softwares são armazenados em dispositivos como:
+- HDs (Hard Drives) - Discos Rígidos<br>
+Discos mecânicos com motores e cabeças de leitura<br>
+Gravação magnética<br><br>
+- CDs / DVDs / Blu-rays - Mídias Óticas removíveis
+- Pendrives / Cartões de Memória
+- SSDs (Solid State Drive) - utilizam uma variante da memória flash para armazenar informações (acesso eletronico)
+
+Conexão SATA (Serial Advanced Technology Attachment):<br>
+PATA – Parallel ATA<br>
+SATA – Serial ATA<br>
+
+**Fonte:** receber a energia da tomada e converter para tensão de funcionamento do computador
+
+**Placas Offboard:** melhora características ou substitui outros da placa-mãe
+
+**Há outras placas como:**
+- Placas de Som;
+- Placas de Rede;
+- Captura de vídeo;
+- Adaptadores NVMe;
+- Adaptadores SATA;
+- Processadores de IA ou mineração;
+
+**Gabinete:** protege e organiza o hardware do PC, tem uma classificação conforme tamanho da placa-mãe
