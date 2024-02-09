@@ -128,7 +128,7 @@ registradores
 Para que o computador funcione precisamos de softwares como sistemas operacionais, e os dados gerados e utilizados por esses softwares são armazenados em dispositivos como:
 - HDs (Hard Drives) - Discos Rígidos<br>
 Discos mecânicos com motores e cabeças de leitura<br>
-Gravação magnética<br><br>
+Gravação magnética<br>
 - CDs / DVDs / Blu-rays - Mídias Óticas removíveis
 - Pendrives / Cartões de Memória
 - SSDs (Solid State Drive) - utilizam uma variante da memória flash para armazenar informações (acesso eletronico)
@@ -150,3 +150,13 @@ SATA – Serial ATA<br>
 - Processadores de IA ou mineração;
 
 **Gabinete:** protege e organiza o hardware do PC, tem uma classificação conforme tamanho da placa-mãe
+
+## Aula 04 – Virtualização
+instalação de um sistema operacional
+
+- Windows 10
+- Ubuntu 23.10
+- Proxmox
+
+- **VM (Virtual Machine)**
+
