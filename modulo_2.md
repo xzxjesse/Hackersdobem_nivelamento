@@ -168,3 +168,6 @@ A **virtualização** é o uso de software para criar uma camada sobre o hardwar
 
 - tipo 1: instalado diretamente sobre o hardware e onde são instalados os sistemas operacionais.
 - tipo 2: implementado para funcionar como se fosse uma aplicação do sistema operacional hospedeiro operando em modo usuário, onde serão criadas as máquinas virtuais.
+
+- **Virtualização** virtualiza *Hardware*
+- **Container** virtualiza *Sistema Operacional*
