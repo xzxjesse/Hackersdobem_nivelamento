@@ -160,3 +160,11 @@ instalação de um sistema operacional
 
 - **VM (Virtual Machine)**
 
+## Aula 05 – Instalação de SO
+
+A **virtualização** é o uso de software para criar uma camada sobre o hardware que permite os elementos do computador sejam divididos em vários computadores virtuais, chamados de **VMs**.
+
+**Hipervisor** é a camada de software que permite a criação (virtualização) de máquinas virtuais e, consequentemente, seu gerenciamento e controle.
+
+- tipo 1: instalado diretamente sobre o hardware e onde são instalados os sistemas operacionais.
+- tipo 2: implementado para funcionar como se fosse uma aplicação do sistema operacional hospedeiro operando em modo usuário, onde serão criadas as máquinas virtuais.
