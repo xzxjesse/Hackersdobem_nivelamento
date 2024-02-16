@@ -55,3 +55,8 @@ A maneira como os dispositivos em uma rede estão fisicamente ou logicamente con
 - Tree
 - Mesh
 - Hybrid
+
+## Aula 4 - Intranet/extranet
+
+**Intranet**: é uma rede privada para acesso de pessoas autorizadas dentro de uma mesma rede em uma organização. <br><br>
+**Extranet**: os usuários podem acessar a rede interna de um local mesmo não estando no local físico, através de logins, senhas e meios criptografados.
