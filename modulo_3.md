@@ -60,3 +60,50 @@ A maneira como os dispositivos em uma rede estão fisicamente ou logicamente con
 
 **Intranet**: é uma rede privada para acesso de pessoas autorizadas dentro de uma mesma rede em uma organização. <br><br>
 **Extranet**: os usuários podem acessar a rede interna de um local mesmo não estando no local físico, através de logins, senhas e meios criptografados.
+
+## Aula 5 - Ativos de rede
+
+**Ativos de rede**: são equipamentos responsáveis por fazer a conversão de sinais elétricos e ópticos em dados.<br>
+<br>
+• Hubs; <br>
+• Switches; <br>
+• Roteadores; <br>
+• Placas de Rede; <br>
+• Firewall. <br>
+
+**Passivos de rede**: são responsáveis por transferir os dados sem interferir nas informações trafegadas. <br> 
+<br>
+• Hubs fazem broadcast na rede; <br>
+• Hub pode ser ativo ou passivo. <br>
+• Hubs passivos não fazem regeneração do sinal; <br>
+• Hubs ativos podem amplificar o sinal recebido; <br>
+
+### Switch
+
+São hardwares projetados para conectar dispositivos em uma rede local, direcionando o tráfego de dados de maneira inteligente.
+
+- não gerenciável 
+- gerenciável 
+
+### Roteadores
+
+São projetados para encaminhar o dados entre redes diferentes, escolhendo o melhor caminho para a transferência de informações.
+
+### Placa de rede
+
+O controle de envio e recebimento de dados em uma rede é a função principal de uma placa de rede.
+
+### Firewall
+
+Software que faz a separação entre a rede interna e externa, protegendo a rede interna. <br>
+• Filtragem de pacotes;<br>
+• Firewall de aplicação;<br>
+• Inspeção de estado.<br>
+
+### IDS e IPS
+
+**IDS (Sistema de Detecção de Intrusão)**: sistema responsável por monitorar o tráfego de rede e realizar alertas e notificações em caso de ameaças.<br>
+
+
+**IPS (Sistema de Prevenção de Intrusão)**: responsável por fazer o bloqueio ativo do tráfego malicioso, agindo com uma resposta imediata às ameaças.<br>
+
