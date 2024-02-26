@@ -132,8 +132,8 @@ Software que faz a separação entre a rede interna e externa, protegendo a rede
 ## Aula 7 - Par metálico
 
 Cabos com a capacidade de evitar a interferência de outros sinais na rede:<br>
-**Coaxial** <br>
-**Par trançado** <br>
+**• Coaxial** <br>
+**• Par trançado** <br>
 
 ## Aula 8 - Fibra
 
@@ -141,3 +141,9 @@ Cabos com a capacidade de evitar a interferência de outros sinais na rede:<br>
 - altas taxas de transferência;
 - maior largura de banda;
 - menor perda de sinal;
+
+## Aula 9 - Rede sem fio
+
+• Wi-Fi;
+• Bluetooth;
+• Rede 3G, 4G e 5G
