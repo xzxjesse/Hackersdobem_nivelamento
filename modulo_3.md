@@ -107,3 +107,24 @@ Software que faz a separação entre a rede interna e externa, protegendo a rede
 
 **IPS (Sistema de Prevenção de Intrusão)**: responsável por fazer o bloqueio ativo do tráfego malicioso, agindo com uma resposta imediata às ameaças.<br>
 
+## Aula 6 - Conectividade
+
+**Comunicação analógica**: o sistema era mais simples, representado por informações de maneira contínua e variável. <br>
+
+**Comunicação digital**: a comunicação passou a ser representada de maneira binária, convertidas por sequência digitais para serem utilizadas nos computadores. <br>
+
+**Modos de operação:**<br>
+
+- Simplex (dados enviados de uma só direção)<br>
+- Half Duplex (dados enviados e depois recebidos)<br>
+- Full Duplex (envia e recebe dados ao mesmo tempo)<br>
+
+**Verificadores de erro:**<br>
+• VRC (Vertical Redundancy Checking);<br>
+• LRC (Longitudinal Redundancy Checking);<br>
+• CRC (Cyclic Redundancy Checking);<br>
+• Checksum;<br>
+
+- Álgebra booleana;
+- Tabela Verdade;
+- Portas Lógicas;
