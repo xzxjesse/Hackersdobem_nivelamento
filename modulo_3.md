@@ -128,3 +128,9 @@ Software que faz a separação entre a rede interna e externa, protegendo a rede
 - Álgebra booleana;
 - Tabela Verdade;
 - Portas Lógicas;
+
+## Aula 7 - Par metálico
+
+Cabos com a capacidade de evitar a interferência de outros sinais na rede:<br>
+**Coaxial** <br>
+**Par trançado** <br>
