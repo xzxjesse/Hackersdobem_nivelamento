@@ -134,3 +134,10 @@ Software que faz a separação entre a rede interna e externa, protegendo a rede
 Cabos com a capacidade de evitar a interferência de outros sinais na rede:<br>
 **Coaxial** <br>
 **Par trançado** <br>
+
+## Aula 8 - Fibra
+
+- utiliza feixes de luz para enviar informações;
+- altas taxas de transferência;
+- maior largura de banda;
+- menor perda de sinal;
